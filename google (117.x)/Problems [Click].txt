@@ -1,0 +1,2 @@
+1. windows 7 not supported this chrome: Set up the config and configure it. (It is written in README.txt).
+2. not vision chrome: open "start.vbs" and Change the VBS file
